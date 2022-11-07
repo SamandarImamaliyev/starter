@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="ar" dir="rtl">
   <head>
+
 Local basliq elave edildi!!!
     <!-- Required meta tags -->
     <meta charset="utf-8">
